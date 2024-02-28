@@ -73,15 +73,15 @@ Add the Maven dependency:
 [source,xml]
 ----
 <dependency>
-  <groupId>io.github.shinusuresh</groupId>
+  <groupId>io.github.net-a-porter</groupId>
   <artifactId>spring-data-solr</artifactId>
-  <version>5.1.0</version>
+  <version>5.1.5</version>
 </dependency>
 ----
 
 === Gradle configuration
 [source,groovy]
-implementation("io.github.shinusuresh:spring-data-solr:5.1.0")
+implementation("io.github.net-a-porter:spring-data-solr:5.1.5")
 
 == Getting Help
 
@@ -89,15 +89,15 @@ Having trouble with Spring Data? We’d love to help!
 
 * Learn the Spring basics – Spring Data builds on Spring Framework, check the https://spring.io[spring.io] web-site for a wealth of reference documentation.
 If you are just starting out with Spring, try one of the https://spring.io/guides[guides].
-* Report bugs with Spring Data for Apache Solr at https://github.com/shinusuresh/spring-data-solr/issues[issues].
+* Report bugs with Spring Data for Apache Solr at https://github.com/NET-A-PORTER/spring-data-solr/issues[issues].
 
 == Reporting Issues
 
 Spring Data uses JIRA as issue tracking system to record bugs and feature requests. If you want to raise an issue, please follow the recommendations below:
 
 * Before you log a bug, please search the
-https://github.com/shinusuresh/spring-data-solr/issues[issue tracker] to see if someone has already reported the problem.
-* If the issue doesn’t already exist, https://github.com/shinusuresh/spring-data-solr/issues[create a new issue].
+https://github.com/NET-A-PORTER/spring-data-solr/issues[issue tracker] to see if someone has already reported the problem.
+* If the issue doesn’t already exist, https://github.com/NET-A-PORTER/spring-data-solr/issues[create a new issue].
 * Please provide as much information as possible with the issue report, we like to know the version of Spring Data that you are using and JVM version.
 * If possible try to create a test-case or project that replicates the issue. Attach a link to your code or a compressed file containing your code.
 
